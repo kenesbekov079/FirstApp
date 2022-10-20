@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/custom_email.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/custom_input.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/custom_sms.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_email.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_email_focused.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_sms.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_sms_focused.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_subject.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/ic_subject_focused.xml" value="0.1715" />
+        <entry key="..\:/Users/Notnik/AndroidStudioProjects/FirstApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

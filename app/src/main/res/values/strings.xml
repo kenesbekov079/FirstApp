@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="intents">Intents</string>
+    <string name="send">SEND</string>
+    <string name="email_address">Email Address</string>
+    <string name="message">Message</string>
+    <string name="theme">Theme</string>
+</resources>
